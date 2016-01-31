@@ -1,0 +1,83 @@
+
+{
+    "id":"bash_reserved_variables_cheatsheet",
+    "name":"Bash reserved variables",
+    "description": "These default rvariables are set or used by Bash",
+    "metadata":{
+        "sourceName":"Tldp.org",
+        "sourceUrl":"http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_02.html#sect_03_02_04"
+    },
+  "aliases": [
+    "bash enviornment variables","bash envars"
+  ],
+    "template_type": "keyboard",
+    "section_order":[
+        "Common variables",
+        "Common Variab",
+        "PROJECT EXPLORER"
+    ],
+    "sections":{
+        "GENERAL":[
+            {
+                "val":"This toggles switch displays the VBE from the application window and vice versa",
+                "key":"Alt + F11"
+            },
+            {
+                "val":"Finds Next",
+                "key":"F3"
+            },
+            {
+                "val":"Finds Previous",
+                "key":"Shift + F3"
+            },
+            {
+                "val":"RUN",
+                "key":"F5"
+            },
+            {
+                "val":"OPEN PROPERTY WINDOW",
+                "key":"F4"
+            },
+            {
+                "val":"Opens the Object Browser.",
+                "key":"F2"
+            },
+            {
+                "val":"Opens VBA Help.",
+                "key":"F1"
+            }
+        ],
+        "CODE MODULE":[
+            {
+                "val":"SELECT NEXT PROCEDURE",
+                "key":"Ctrl + Down Arrow"
+            },
+            {
+                "val":"SELECT PREVIOUS PROCEDURE",
+                "key":"Ctrl + UP Arrow"
+            },
+            {
+                "val":"GoES TO END MODULE",
+                "key":"Ctrl + End"
+            }
+        ],
+        "PROJECT EXPLORER":[
+            {
+                "val":"Selects the first file in the list",
+                "key":"HOME"
+            },
+            {
+                "val":"Selects the last file in the list.",
+                "key":"END"
+            },
+            {
+                "val":"Expands a sublist.",
+                "key":"RIGHT ARROW"
+            },
+             {
+                "val":"COLLAPS a sublist.",
+                "key":"LEFT ARROW"
+            }
+        ]
+    }
+}
