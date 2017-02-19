@@ -4,7 +4,7 @@
     "description": "Ace is an embeddable code editor written in JavaScript",
 
     "metadata": {
-        "sourceName": "Github",
+       "sourceName": "Github",
         "sourceUrl" : "https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts"
     },
 
@@ -12,7 +12,7 @@
 
     "section_order": [
         "Line Operations",
-        "Selection",
+       "Selection",
         "Multicursor",
         "Go To",
         "Find/Replace",
@@ -31,7 +31,7 @@
                 "val": "Copy lines down"
             },
             {
-                "key": "[Alt] [Shift] [↑]",
+               "key": "[Alt] [Shift] [↑]",
                 "val": "Copy lines up"
             },
             {
