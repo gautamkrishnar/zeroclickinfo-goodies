@@ -3,6 +3,7 @@
     "danger": "danger"
   },
   "name": "zeroclickinfo-goodies",
+  "author": "ddg",
   "version": "1.0.0",
   "dependencies": {
     "danger": "^0.11.4"
