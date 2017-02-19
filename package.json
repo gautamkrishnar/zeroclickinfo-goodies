@@ -1,5 +1,18 @@
 {
   "scripts": {
-    "danger": "danger"  
-  }
+    "danger": "danger"
+  },
+  "name": "zeroclickinfo-goodies",
+  "version": "1.0.0",
+  "dependencies": {
+    "danger": "^0.11.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautamkrishnar/zeroclickinfo-goodies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gautamkrishnar/zeroclickinfo-goodies/issues"
+  },
+  "homepage": "https://github.com/gautamkrishnar/zeroclickinfo-goodies#readme"
 }
