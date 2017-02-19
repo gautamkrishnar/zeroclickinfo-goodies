@@ -61,7 +61,7 @@ ddg_goodie_test(
             subtitle => "Non-random selection from: duckduckgo, google, bing or something"
         })
     ),
-    'choose Google OR DuckDuckGo OR Bing OR SOMETHING' => test_zci(
+    'choose Google OR DuckDuckGo OR Bing OR SOMjgnkETHING' => test_zci(
         'DuckDuckGo (Non-random)',
         structured_answer => create_structured_answer({
             title => "DuckDuckGo",
